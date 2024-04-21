@@ -4,7 +4,7 @@ function fetchGitHubUser() {
     const username = prompt("Enter your GitHub username:");
 
     // GitHub token placed directly in the source code (highly unsafe)
-    const token = "ghp_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx";
+    const token = "ghp_ewe234452323145423821efwrewrewrwe4411ewrw4e5";
 
     // Create a new script element for JSONP
     const script = document.createElement('script');
